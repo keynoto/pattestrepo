@@ -1,0 +1,1 @@
+You can create custom services when the application to be hosted is not listed in the NAT/Gaming page. Specify the ports and protocol according to your application requirements.
